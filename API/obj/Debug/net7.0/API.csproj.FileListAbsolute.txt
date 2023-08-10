@@ -69,3 +69,4 @@ C:\Programming\Kursy\DatingApp\API\bin\Debug\net7.0\System.IdentityModel.Tokens.
 C:\Programming\Kursy\DatingApp\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Programming\Kursy\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
 C:\Programming\Kursy\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Programming\Kursy\DatingApp\API\bin\Debug\net7.0\Data\UserSeedData.json
